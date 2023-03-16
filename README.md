@@ -2,6 +2,6 @@
 By DoritoProductions
 ***Just Calaca Chida***
 
-- Link to the site: https://agoosguchi.github.io/neon-calc/
+- Link to the site: https://doritogirl/.github.io/calaca-chida
 
 ------
